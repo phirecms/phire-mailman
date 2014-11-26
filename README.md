@@ -1,4 +1,4 @@
-phire-module-mailman
+Phire Mailman Module
 ====================
 
 Mailman module for Phire CMS 2
